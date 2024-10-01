@@ -1,0 +1,11 @@
+
+# Slice
+
+valor = 90.75
+valor = str(valor)
+fruta = 'Abacate'
+
+print(valor[2:])
+print(fruta[3])
+print(fruta[2:6])
+

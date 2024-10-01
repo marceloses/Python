@@ -1,0 +1,22 @@
+
+
+
+
+# Criar uma frase adcionar variaveis e imprimir a frase no final
+
+# O Marcelo tem 45 anos e mora em São Paulo
+
+nome = 'Marcelo'
+idade = 32
+cidade = 'São Paulo'
+
+print(' 0 ' + nome + ' tem ' + str(idade) + ' anos e mora em ' + cidade + '.')
+
+# O Eduardo tem 14 anos e mora em Itaquera
+
+nome = 'Eduardo'
+idade = 14
+idade = str(idade)
+bairro = 'Itaquera'
+
+print(' O ' + nome + ' tem ' + idade + ' anos' + ' e mora em ' + bairro + '.')

@@ -1,0 +1,11 @@
+
+# Input  / Captmos os dados armazenamos em variaveis e mostramos esses dados na tela
+
+# O Marcelo tem 45 anos e mora em São Paulo
+
+nome = input ('QUal seria o seu nome: ')
+idade = input ('Qual seria a sua idade: ') 
+idade = str(idade)
+bairro = input ( 'Onde você mora ? :')
+
+print(' O ' + nome + ' tem ' + idade + ' e mora em ' + bairro + '.')
