@@ -1,2 +1,0 @@
-# Python
-Repositório Python Banco
