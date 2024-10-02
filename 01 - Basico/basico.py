@@ -1,5 +1,5 @@
 # basico
 
-print(" Ola Pessoal! Tudo bem? ")
+print(" Ola Pessoal! Tudo bem? Então esta bem")
 
 
