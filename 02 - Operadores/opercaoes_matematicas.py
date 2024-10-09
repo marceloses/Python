@@ -1,6 +1,19 @@
 
+'''
 
-valor1 = 90
-valor2 = 50
+Operações Matemáticas dem Pytyhon
 
-print(valor1 + valor2)
+1 - Muliplicação sempre tem uma precedencia do que uma adição e subtração
+
+'''
+calculo = 2 + 2 * 3 / 2
+
+print(calculo)
+
+# Parenteses
+calculo_total = (2 + 2) * 3
+print(calculo_total)
+
+# Exponenciais vem depois do parenteses
+calculando = 2 ** 3 + 4
+print(calculando)
